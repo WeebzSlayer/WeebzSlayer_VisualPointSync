@@ -1,4 +1,4 @@
-# WeebzSlayer_Studio
+# 𝕎𝕖𝕖𝕓𝕫𝕊𝕝𝕒𝕪𝕖𝕣_𝕊𝕥𝕦𝕕𝕚𝕠
 
 ---
 
@@ -6,13 +6,13 @@
 
 ---
 
-## 🧊 VisualPointSync
+## 🖌️🧊 VisualPointSync
 
 ![visualpointsync](https://github.com/user-attachments/assets/71f703cf-0b29-4233-9661-858c11d20a11)
 
 ---
 
-## 🧊 WMO_Sculptor
+## 🖌️🧊 WMO_Sculptor
 
 ![wmosculptor](https://github.com/user-attachments/assets/aee24c73-33f7-4c4b-9823-f03c89ec02af)
 
