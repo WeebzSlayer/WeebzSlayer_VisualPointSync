@@ -20,6 +20,6 @@
 
 ## 🖌️🧊 M2_Sculptor
 
-![wmosculptor](https://github.com/user-attachments/assets/ea9b5d74-00d3-4db2-867c-5d10ac220ce8)
+![m2sculptor](https://github.com/user-attachments/assets/1fa2cd7c-4671-4f28-9fa6-ede01be7ebff)
 
 ---
