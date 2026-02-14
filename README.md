@@ -26,8 +26,12 @@
 
 ## 💌 Donate
 
-The project will remain free and open source even without donations. That would help a lot to help me finish this one and even starts some more others.
+The project will remain free and open source even without donations. That would help a lot even for some others endeavors tho.
 
-BTC: bc1q7q8q28lkjpquuvnud9zxgc3mqkk7ycqlearyyw
+*   **BTC:** `bc1q7q8q28lkjpquuvnud9zxgc3mqkk7ycqlearyyw`
 
-XMR: 4Abvdv12KZ6TUyrggDXGEUCzYgzj7ym1NGMp3kMx4wVbWNCR4BELqcQGXFPzuPHF3Djm6uvowBpHTMY4Wxcdvh4PUFMzXFo
+*   **XMR:** `4Abvdv12KZ6TUyrggDXGEUCzYgzj7ym1NGMp3kMx4wVbWNCR4BELqcQGXFPzuPHF3Djm6uvowBpHTMY4Wxcdvh4PUFMzXFo`
+
+---
+
+*Stay tuned!*
