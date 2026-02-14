@@ -24,9 +24,13 @@
 
 ---
 
+If you like this tool, feel free to give it a ⭐ on GitHub.
+
+---
+
 ## 💌 Donate
 
-The project will remain free and open source even without donations. That would help a lot even for some others endeavors tho.
+The project will remain free and open source even without donations. That would help a lot tho... even for some others stuffs that I'm cooking.
 
 *   **BTC:** `bc1q7q8q28lkjpquuvnud9zxgc3mqkk7ycqlearyyw`
 
