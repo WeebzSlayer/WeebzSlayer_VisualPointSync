@@ -23,3 +23,11 @@
 ![m2sculptor](https://github.com/user-attachments/assets/1fa2cd7c-4671-4f28-9fa6-ede01be7ebff)
 
 ---
+
+## 💌 Donate
+
+The project will remain free and open source even without donations. That would help a lot to help me finish this one and even starts some more others.
+
+BTC: bc1q7q8q28lkjpquuvnud9zxgc3mqkk7ycqlearyyw
+
+XMR: 4Abvdv12KZ6TUyrggDXGEUCzYgzj7ym1NGMp3kMx4wVbWNCR4BELqcQGXFPzuPHF3Djm6uvowBpHTMY4Wxcdvh4PUFMzXFo
